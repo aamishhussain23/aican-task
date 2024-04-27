@@ -19,7 +19,6 @@ performing necessary operations on the database, and returning the requested dat
 
 - [Installation](#installation)
 - [Built with](#built-with)
-- [Continued development](#continued-development)
 - [Conclusion](#conclusion)
 
 ## Installation
